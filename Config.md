@@ -385,15 +385,6 @@ sudo pacman -S libappindicator-gtk3
 ``` shell
 variety
 ```
-#快速启动
-查看swap分区uuid
-``` shell
-ls -l /dev/disk/by-uuid
-```
-在Grub的quiet splash后面加上
-``` shell
-resume=UUID
-```
 ## Conky字体问题
 /usr/share/conky/conky_maia文件的 conky.text 前4行关于time的，改字体，把bitstream Vera 都改成anti
 
