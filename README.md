@@ -1,0 +1,2 @@
+# ManjaroConfig
+Manjaro Config Backup
